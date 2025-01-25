@@ -1,0 +1,309 @@
+body,
+html {
+    background-color: #F0DCB8 !important;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: flex-start;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+
+/*estilo do logo*/
+.logo {
+    width: 80px;
+    height: 56px;
+    margin-left: 15px;
+    margin-right: 8px;
+    vertical-align: middle;
+}
+
+/*estilo da nav*/
+.nav {
+    position: relative;
+    z-index: 10;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+
+}
+
+.nav-item {
+    display: inline-block;
+
+}
+
+.nav a {
+    color: #6d201c;
+    font-family: 'karla';
+    font-weight: 400;
+    margin-right: 8px;
+    margin-top: 34px;
+
+}
+
+.nav a:hover {
+    color: black;
+}
+
+.header-image {
+    width: 100%;
+    height: 50%;
+    margin-top: -106px;
+    position: relative;
+}
+
+.header-image img {
+    max-width: 100%;
+    display: flex;
+    width: auto;
+    height: auto;
+}
+
+
+/* Estilo da barra de busca */
+.container-fluid-search-bar {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    background-color: #6d201c;
+}
+
+.form-search-input {
+    margin-right: 2px;
+    padding: 5px;
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.form-control-date-input {
+    margin-right: 2px;
+    padding: 5px;
+    width: 150px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+/* ~padding do search bar */
+#searchbar {
+    padding: 15px; 
+  }
+
+.search-button {
+    padding: 6px 24px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 0px;
+    cursor: pointer;
+}
+
+.search-button:hover {
+    background-color: #514F4F;
+}
+
+
+
+/* estilos de h2 */
+h2 {
+    font-family: 'karla';
+    font-size: 20px;
+    text-align: left;
+    margin-left: 8px;
+    padding-top: 40px;
+}
+
+.col {
+    padding: 25px;
+}
+
+.row {
+    /* fileiras */
+    margin: 0 auto;
+}
+
+
+/* estilo dos cartões */
+.card {
+    background-color: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+    width: 100% !important;
+    max-width: 28rem; 
+    margin-left: 24px;
+    margin-right: 24px;
+    margin-bottom: 32px;
+    font-family: 'karla';
+}
+
+/* estilo para o corpo e listas */
+.card-body {
+    margin: 0;
+    flex-grow: 1;
+    font-family: 'karla';
+}
+
+.card-img-top {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    margin-bottom: 8px;
+}
+
+/* estilos do titulo do card */
+.card-title {
+    font-family: 'karla';
+    font-size: 1.5rem;
+    font-weight: 400;
+    color: white;
+    margin-bottom: 32px;
+
+}
+
+/* Estilo do texto do card */
+.card-text {
+    margin-bottom: 25px;
+    font-size: 1rem;
+    height: 45px;
+}
+
+.card-package {
+    border: 5px solid #6d201c;
+}
+
+.card-package .card-title {
+    color: black;
+}
+
+/* Estilo geral do acordeão */
+.accordion-item {
+    background-color: #6d201c !important;
+}
+
+.accordion {
+    border: none;
+}
+
+/*botão do acordeão*/
+.accordion-button {
+    background-color: #6d201c00 !important;
+    color: white !important;
+    font-family: 'karla';
+    font-weight: 400;
+    margin-top: -25px;
+    margin-bottom: 5px;
+    height: 60px;
+
+}
+
+/* Corpo do acordeão */
+.accordion-body {
+    color: white;
+    padding: 1rem;
+    border-top: none;
+    line-height: 1.5;
+    font-size: 1rem;
+    text-align: justify;
+}
+
+.accordion-header {
+    color: white !important;
+}
+
+
+.card-img-calendar {
+    width: 50px;
+    height: 50px;
+    margin-left: 30px;
+    vertical-align: middle;
+    margin-bottom: 24px;
+}
+
+
+/* estilo do titulo h3 */
+.title-inline {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    font-family: 'karla';
+}
+
+
+/*estilo button reservar*/
+.reservar-button {
+    padding: 6px 24px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 0px;
+    cursor: pointer;
+}
+
+/*estilo button reservar hover*/
+.reservar-button:hover {
+    background-color: #514F4F;
+}
+
+/* estilos do container dos mais procurados com os icones do fogo */
+.icon-text-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 32px;
+
+}
+
+/*icon fire*/
+.fire {
+    width: 40px;
+    height: 40px;
+    margin-top: 50px;
+}
+
+/*texto*/
+.Procurados {
+    margin-top: 50px;
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #ff4500;
+    font-family: 'karla';
+}
+
+
+
+
+footer {
+    /* footer area style */
+    background-color: #6d201c;
+    color: #d3b98a;
+    text-align: center;
+    margin: 0;
+    width: 100%;
+    padding: 20px 0;
+    position: relative;
+    box-sizing: border-box;
+    bottom: 0;
+}
+
+
+
+footer a {
+    /* footer's links' style */
+    color: #d3b98a;
+    text-decoration: none;
+    margin-right: 25px;
+    font-size: 18px;
+}
+
+footer p {
+    /* footer's paragraphs' style */
+    color: #d3b98a;
+    font-size: 13px;
+    margin-bottom: -5px;
+    text-align: right;
+    margin-right: 25px;
+}
