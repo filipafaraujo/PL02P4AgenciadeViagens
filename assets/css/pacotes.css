@@ -307,3 +307,20 @@ footer p {
     text-align: right;
     margin-right: 25px;
 }
+
+
+/* animação dos icones fire em javascript */
+.animate-fire {
+    animation: fireAnimation 1s infinite alternate;
+  }
+  
+  @keyframes fireAnimation {
+    0% {
+      transform: scale(1);
+      background-color: #F0DCB8;
+    }
+    100% {
+      transform: scale(1.2);
+      background-color: #F0DCB8;
+    }
+  }

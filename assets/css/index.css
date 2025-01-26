@@ -147,15 +147,58 @@ p {
     margin-top: 34px;
 }
 
+h1 {
+    font-family: 'karla';
+    text-align: left;
+    margin-left: 185px;
+    padding-bottom:8px;
+    padding-top: 60px;
+    color: black;
+    font-size: 16px;
+ font-weight: 200;
+}
+
 h2 {
     font-family: 'karla';
     font-size: 20px;
     text-align: left;
     margin-left: 64px;
     padding-top: 64px;
+    padding-bottom: 5px;
     color: black;
 
 }
+
+h3 {
+    font-family: 'karla';
+    font-size: 20px;
+    text-align: left;
+    margin-left: 120px;
+    padding-top: 64px;
+    padding-bottom: 15px;
+    color: black;
+}
+
+h4{
+    font-family: 'karla';
+    text-align: left;
+    margin-left: 185px;
+    margin-bottom:20px;
+    padding-top: 20px;
+    color: black;
+    font-size: 16px;
+ font-weight: 200;
+}
+
+h5 {
+    font-family: 'karla';
+    font-size: 20px;
+    text-align: left;
+    margin-left: 64px;
+    padding-bottom: 12px;
+    color: black;
+}
+
 
 .card-custom {
     /* cards' edges */
@@ -189,6 +232,9 @@ h2 {
     margin-right: 24px;
     max-width: 90%;
     margin: 0 auto;
+    padding:0%;
+    height: 100%;
+    
 }
 
 .card-body {
@@ -202,6 +248,7 @@ h2 {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    height: 100%;
 }
 
 
@@ -293,3 +340,29 @@ footer p {
     text-align: right;
     margin-right: 25px;
 }
+
+
+/* Piscar a palavra 'Promoções' entre duas cores */
+#promocoes {
+    font-weight: bold;
+    color: black; /* Cor inicial */
+    transition: color 2s ease-in-out; /* Adiciona uma transição suave */
+  }
+  
+  /* Classe que ativa a animação de piscar */
+  .blinking {
+    animation: blinkColor 2s infinite;
+  }
+  
+  /* Definindo o efeito de piscar */
+  @keyframes blinkColor {
+    0% {
+      color: black; /* cor inicial */
+    }
+    50% {
+      color: #6d201c; /* cor intermediária */
+    }
+    100% {
+      color: black; /* cor final */
+    }
+  }
