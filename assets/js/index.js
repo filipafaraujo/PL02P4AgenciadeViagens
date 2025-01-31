@@ -13,7 +13,7 @@ document.querySelectorAll('.card img').forEach(img => {
 
 // Função para o contador decrescente de tempo para as promoções
   const countdownElement = document.querySelector('.countdown');
-  const endDate = new Date('2025-02-01T00:00:00').getTime();
+  const endDate = new Date('2025-02-25T00:00:00').getTime();
   
   setInterval(() => {
     const now = new Date().getTime();

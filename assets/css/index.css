@@ -150,7 +150,7 @@ p {
 h1 {
     font-family: 'karla';
     text-align: left;
-    margin-left: 185px;
+    margin-left: 50px;
     padding-bottom:8px;
     padding-top: 60px;
     color: black;
@@ -182,9 +182,10 @@ h3 {
 h4{
     font-family: 'karla';
     text-align: left;
-    margin-left: 185px;
-    margin-bottom:20px;
-    padding-top: 20px;
+    margin-left: 50px;
+    margin-bottom:60px;
+    padding-bottom:30px;
+    padding-top: 30px;
     color: black;
     font-size: 16px;
  font-weight: 200;
@@ -214,7 +215,6 @@ h5 {
     border-left: none;
     border-right: none;
     margin: 10px 0;
-    width: 100%;
 }
 
 .card-image:hover {
@@ -307,7 +307,6 @@ button.btn.btn-dark {
     margin-bottom: 20px;
     width: fit-content;
 }
-
 
 footer {
     /* footer area style */
