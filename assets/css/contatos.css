@@ -9,6 +9,10 @@ body, html {
     overflow-x: hidden;
 }
 
+.container {
+    flex: 1; /* Faz com que o conteúdo principal cresça e empurre o footer para baixo */
+}
+
 /*estilo do logo*/
 .logo {
     width: 80px;
