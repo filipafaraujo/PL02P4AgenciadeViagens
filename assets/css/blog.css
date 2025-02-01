@@ -117,40 +117,44 @@ html {
 
 
 .card {
-  background-color: #f8f9fa9f, !important;
-display: flex;
-flex-direction:column;
+  display: flex;
+  flex-direction: column;
   border-radius: 10px;
   overflow: hidden;
-}
+  border: none !important;
 
+}
 
 
 .card-body {
   padding: 60px;
-padding-bottom: 25px;
-background-color: #f8f9fa9f, !important;
+  padding-bottom: 25px;
+  background-color: #f0dcb86b  !important;
+
+
+
 }
 
 .card-img-top {
   height: 200px;
   object-fit: cover;
+
 }
 
 .card-title {
   font-weight: bold;
   font-size: 1.4rem;
   margin-bottom: 0.75rem;
+
 }
 
 .card-text {
   font-size: 1rem;
   color: #666;
   text-align: justify;
-  height:90px;
+  height: 90px;
   flex-grow: 1;
-  background-color: #f8f9fa9f, !important;
-  margin-bottom:40px;
+  margin-bottom: 40px;
 }
 
 .blog-header {
@@ -309,7 +313,7 @@ footer p {
   display: inline-block;
   margin-bottom: 10px;
   text-align: left;
-  
+
 }
 
 .back-to-top {
