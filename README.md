@@ -8,7 +8,7 @@
 - [Funcionalidades](#funcionalidades)
 - [Tecnologias utilizadas](#tecnologias-utilizadas)
 - [Desenvolvedores](#desenvolvedores)
-- [Acesso ao website](#acesso-ao-website)
+- [Acesso ao projeto](#acesso-ao-projeto)
 
 ---
 
@@ -60,4 +60,4 @@ A **OBLO** é um website de uma agência de viagens especializada no atendimento
 
 ---
 
-## Acesso ao website  
+## Acesso ao projeto  
