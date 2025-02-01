@@ -2,16 +2,16 @@
 
 
 * [Descrição do Projeto](#descrição-do-projeto)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
+* [Funcionalidades](#funcionalidades)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Pessoas Contribuidoras e desenvolvedoras do projeto](#pessoas-contribuidoras-desenvolvedoras)
 * [Acesso ao website](#acesso)
  
 * 
-* Projeto desenvolvido para a acção de formação de Programação para a WEB - cliente (client-side). A OBLO é um website de uma agência de viagens especializada no servico ao cliente de viagens, destinos mais procurados, bem como pacotes, reservas, etc.
+(#descrição-do-projeto) Projeto desenvolvido para a acção de formação de Programação para a WEB - cliente (client-side). A OBLO é um website de uma agência de viagens especializada no servico ao cliente de viagens, destinos mais procurados, bem como pacotes, reservas, etc.
 * 
 
-
+(#funcionalidades)
 * 1.HomePage
 - Apresentação dos destinos mais procurados
 - Pacotes de viagem em destaque
@@ -38,7 +38,7 @@
 * 6.Contatos
 -  Formulário de contacto e informações da agência. 
 
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
+(#tecnologias-utilizadas)
 * Figma -> escolha de paleta de cores, logo, formatação de imagens
 * HTML5, CSS3, JavaScript -> linguagens utilizadas
 * Visual Studio Code -> ferramenta de escrita e compilação de todo o código
@@ -46,10 +46,10 @@
 * Github -> gestão e compilação do código
 
 
-* [Pessoas Contribuidoras e desenvolvedoras do projeto](#pessoas-contribuidoras-desenvolvedoras)
+(#pessoas-contribuidoras-desenvolvedoras)
 * Filipa Araújo
 * Thiago Bührer
 
 
-* [Acesso ao website](#acesso)
+(#acesso)
 * 
