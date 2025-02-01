@@ -38,7 +38,7 @@ A **OBLO** é um website de uma agência de viagens especializada no atendimento
 - Formulário de reserva com campos: **Nome, Destino, Datas, Número de Pessoas e Contato Telefónico**.  
 
 ### 📰 5. Blog    
-- Seção com artigos sobre **dicas de viagens, destinos e experiências de clientes**.  
+- Secção com artigos sobre **dicas de viagens, destinos e experiências de clientes**.  
 
 ### 📞 6. Contatos  
 - Formulário de contato e informações da agência.  
