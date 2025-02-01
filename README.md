@@ -1,7 +1,7 @@
 # 🏝️ OBLO - Agência de Viagens  
 
 
-![ImagemInicial](assets/imagens/front-page.png)
+![ImagemInicial](assets/imagens/front_page.png)
 
 ## 📌 Índice
 - [Descrição do Projeto](#descrição-do-projeto)
