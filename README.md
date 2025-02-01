@@ -28,17 +28,17 @@ A **OBLO** é um website de uma agência de viagens especializada no atendimento
 - Dicas para escolher o próximo destino.  
 
 ### 🎟️ 3. Pacotes  
-- Apresentação de pacotes de viagem populares, com opção de reserva direta.  
+- Apresentação de pacotes de viagem habituais populares, com opção de reserva direta.  
 - Detalhes de cada pacote: **itinerário, preços, inclusões/exclusões**.  
 
 ### 📝 4. Reservas  
-- Formulário de reserva com campos: **Nome, Destino, Datas, Número de Pessoas e Contato Telefônico**.  
+- Formulário de reserva com campos: **Nome, Destino, Datas, Número de Pessoas e Contato Telefónico**.  
 
 ### 📰 5. Blog  
 - Seção com artigos sobre **dicas de viagens, destinos e experiências de clientes**.  
 
 ### 📞 6. Contatos  
-- Formulário de contato e informações da agência.  
+- Formulário de contacto e informações da agência.  
 
 ---
 
