@@ -1,55 +1,62 @@
-<h1 align="center"> OBLO - Agência de Viagens </h1>
+# 🏝️ OBLO - Agência de Viagens  
 
+## 📌 Índice
+- [Descrição do Projeto](#descrição-do-projeto)
+- [Funcionalidades](#funcionalidades)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Pessoas Contribuidoras e Desenvolvedoras do Projeto](#pessoas-contribuidoras-e-desenvolvedoras)
+- [Acesso ao Website](#acesso-ao-website)
 
-* [Descrição do Projeto](#descrição-do-projeto)
-* [Funcionalidades](#funcionalidades)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoas Contribuidoras e desenvolvedoras do projeto](#pessoas-contribuidoras-desenvolvedoras)
-* [Acesso ao website](#acesso)
- 
-* 
-(#descrição-do-projeto) Projeto desenvolvido para a acção de formação de Programação para a WEB - cliente (client-side). A OBLO é um website de uma agência de viagens especializada no servico ao cliente de viagens, destinos mais procurados, bem como pacotes, reservas, etc.
-* 
+---
 
-(#funcionalidades)
-* 1.HomePage
-- Apresentação dos destinos mais procurados
-- Pacotes de viagem em destaque
-- Promoções ativas
-- Pesquisa de voos para destinos
+## 📖 Descrição do Projeto  
+Projeto desenvolvido para a ação de formação de **Programação para a WEB - Cliente (Client-Side)**.  
+A **OBLO** é um website de uma agência de viagens especializada no atendimento ao cliente, apresentando **destinos mais procurados**, **pacotes de viagem**, **reservas** e muito mais.  
 
-  
-* 2.Destinos
-- Disponibilização da informação dos top 15 destinos mais procurados de 5 continentes, excluindo a Antarctica.
-- Dicas de como escolher o próximo destino.
+---
 
+## 🚀 Funcionalidades  
 
-* 3.Pacotes
-- Apresentação de pacotes de viagem habituais e mais procurados, com possibilidade de reservar diretamente.
-- Em cada pacote é disponibilizado o itinerário, preços, inclusões/exclusões.
+### 🏠 1. HomePage  
+- Apresentação dos destinos mais procurados  
+- Pacotes de viagem em destaque  
+- Promoções ativas  
+- Pesquisa de voos para destinos  
 
+### ✈️ 2. Destinos  
+- Informação sobre os **top 15 destinos mais procurados** de **5 continentes** (excluindo a Antártida).  
+- Dicas para escolher o próximo destino.  
 
-* 4.Reservas
-- Formulário de reserva para reservas diretas, somente adicionando Nome, Destino, Datas, Número de pessoas e contacto telefónico.
+### 🎟️ 3. Pacotes  
+- Apresentação de pacotes de viagem populares, com opção de reserva direta.  
+- Detalhes de cada pacote: **itinerário, preços, inclusões/exclusões**.  
 
-* 5.Blog
-- Secção de blog com artigos sobre dicas de viagens, destinos e experiências de clientes.
+### 📝 4. Reservas  
+- Formulário de reserva com campos: **Nome, Destino, Datas, Número de Pessoas e Contato Telefônico**.  
 
-* 6.Contatos
--  Formulário de contacto e informações da agência. 
+### 📰 5. Blog  
+- Seção com artigos sobre **dicas de viagens, destinos e experiências de clientes**.  
 
-(#tecnologias-utilizadas)
-* Figma -> escolha de paleta de cores, logo, formatação de imagens
-* HTML5, CSS3, JavaScript -> linguagens utilizadas
-* Visual Studio Code -> ferramenta de escrita e compilação de todo o código
-* Bootstrap, Google Fonts -> Framework e biblioteca utilizadas
-* Github -> gestão e compilação do código
+### 📞 6. Contatos  
+- Formulário de contato e informações da agência.  
 
+---
 
-(#pessoas-contribuidoras-desenvolvedoras)
-* Filipa Araújo
-* Thiago Bührer
+## 🛠️ Tecnologias Utilizadas  
+- 🎨 **Figma** → Escolha de paleta de cores, logo, formatação de imagens  
+- 🖥️ **HTML5, CSS3, JavaScript** → Linguagens utilizadas  
+- 🛠️ **Visual Studio Code** → Ferramenta de desenvolvimento  
+- 🎭 **Bootstrap, Google Fonts** → Framework e biblioteca utilizadas  
+- 🗂️ **GitHub** → Gestão e versionamento do código  
 
+---
 
+## 👥 Pessoas Contribuidoras e Desenvolvedoras  
+- **Filipa Araújo**  
+- **Thiago Bührer**  
+
+---
+
+## 🌍 Acesso ao Website 
 (#acesso)
 * 
