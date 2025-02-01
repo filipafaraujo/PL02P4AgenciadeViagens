@@ -17,27 +17,27 @@ A **OBLO** é um website de uma agência de viagens especializada no atendimento
 
 ## Funcionalidades  
 
-### 1. HomePage  
+### 🏠 1. HomePage  
 - Apresentação dos destinos mais procurados  
 - Pacotes de viagem em destaque  
 - Promoções ativas  
 - Pesquisa de voos para destinos  
 
-### 2. Destinos  
+### ✈️ 2. Destinos  
 - Informação sobre os **top 15 destinos mais procurados** de **5 continentes** (excluindo a Antártida).  
 - Dicas para escolher o próximo destino.  
 
-### 3. Pacotes  
+### 🎟️ 3. Pacotes  
 - Apresentação de pacotes de viagem habituais populares, com opção de reserva direta.  
 - Detalhes de cada pacote: **itinerário, preços, inclusões/exclusões**.  
 
-### 4. Reservas  
-- Formulário de reserva com campos: **Nome, Destino, Datas, Número de Pessoas e Contato Telefônico**.  
+### 📝 4. Reservas  
+- Formulário de reserva com campos: **Nome, Destino, Datas, Número de Pessoas e Contato Telefónico**.  
 
-### 5. Blog  
+### 📰 5. Blog    
 - Seção com artigos sobre **dicas de viagens, destinos e experiências de clientes**.  
 
-### 6. Contatos  
+### 📞 6. Contatos  
 - Formulário de contato e informações da agência.  
 
 ---
