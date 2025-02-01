@@ -2,10 +2,16 @@
 
 
 * [Descrição do Projeto](#descrição-do-projeto)
-
+* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
+* [Tecnologias utilizadas](#tecnologias-utilizadas)
+* [Pessoas Contribuidoras e desenvolvedoras do projeto](#pessoas-contribuidoras-desenvolvedoras)
+* [Acesso ao website](#acesso)
+ 
+* 
 * Projeto desenvolvido para a acção de formação de Programação para a WEB - cliente (client-side). A OBLO é um website de uma agência de viagens especializada no servico ao cliente de viagens, destinos mais procurados, bem como pacotes, reservas, etc.
 * 
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
+
+
 * 1.HomePage
 - Apresentação dos destinos mais procurados
 - Pacotes de viagem em destaque
