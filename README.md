@@ -4,7 +4,7 @@
 - [Descrição do Projeto](#descrição-do-projeto)
 - [Funcionalidades](#funcionalidades)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Pessoas Contribuidoras e Desenvolvedoras do Projeto](#pessoas-contribuidoras-e-desenvolvedoras)
+- [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
 - [Acesso ao Website](#acesso-ao-website)
 
 ---
@@ -51,7 +51,7 @@ A **OBLO** é um website de uma agência de viagens especializada no atendimento
 
 ---
 
-## 👥 Pessoas Contribuidoras e Desenvolvedoras  
+## 👥 Pessoas Desenvolvedoras  
 - **Filipa Araújo**  
 - **Thiago Bührer**  
 
