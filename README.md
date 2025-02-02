@@ -61,4 +61,4 @@ A **OBLO** é um website de uma agência de viagens especializada no atendimento
 ---
 
 ## Acesso ao projeto  
-filipafaraujo.github.io/PL02P4AgenciadeViagens
+https://filipafaraujo.github.io/PL02P4AgenciadeViagens
