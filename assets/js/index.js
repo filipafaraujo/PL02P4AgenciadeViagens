@@ -50,3 +50,4 @@ function startBlinking() {
   
   // Pára de piscar após 30 segundos
   setTimeout(stopBlinking, 30000);
+

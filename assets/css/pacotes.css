@@ -22,31 +22,57 @@ html {
 }
 
 /*estilo da nav*/
-.nav {
-    position: relative;
+.navbar {
     z-index: 10;
-    margin-bottom: 20px;
+    background-color: transparent !important;
+    position: relative;
+    margin-bottom: -120px;
     display: flex;
     align-items: center;
     justify-content: flex-end;
-
 }
 
 .nav-item {
     display: inline-block;
-
 }
 
-.nav a {
+
+.navbar a {
     color: #6d201c;
     font-family: 'karla';
     font-weight: 400;
-    margin-right: 8px;
-    margin-top: 34px;
+    margin-right: 16px;
+    margin-top: 32px;
+}
+
+.navbar a:hover {
+    color: black;
+}
+
+.navbar-toggler {
+    border: none;
+}
+
+.navbar-collapse {
+    transition: all 0.3s ease;
+}
+
+.navbar-nav {
+    display: flex;
+    align-items: center;
 
 }
 
-.nav a:hover {
+.nav-link {
+    color: #6d201c;
+    font-family: 'Karla', sans-serif;
+    font-weight: 400;
+    margin-right: 8px;
+    margin-top: 10px;
+
+}
+
+.nav-link:hover {
     color: black;
 }
 

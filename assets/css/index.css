@@ -249,6 +249,7 @@ h5 {
     flex-direction: column;
     justify-content: space-between;
     height: 100%;
+    /*border: 0.2px solid black !important;*/
 }
 
 
@@ -279,9 +280,7 @@ h5 {
 
 .card-text-promo {
     font-family: 'karla', sans-serif;
-    padding: 0px;
-    margin: 0;
-    margin-bottom: 40px;
+    margin-bottom: 42px;
     background-color: #F0DCB8;
     color: black;
     text-align: justify;

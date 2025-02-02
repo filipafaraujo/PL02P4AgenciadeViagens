@@ -2,12 +2,13 @@
 body,
 html {
   background-color: #F0DCB8 !important;
-  width: 100%;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: flex-start;
   margin: 0;
   padding: 0;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
+  width: 100%;
+  box-sizing: border-box;
   overflow-x: hidden;
 }
 
@@ -21,9 +22,10 @@ html {
 }
 
 /*estilo da nav*/
-.nav {
-  position: relative;
+.navbar {
   z-index: 10;
+  background-color: transparent !important;
+  position: relative;
   margin-bottom: -120px;
   display: flex;
   align-items: center;
@@ -32,18 +34,45 @@ html {
 
 .nav-item {
   display: inline-block;
-
 }
 
-.nav a {
+
+.navbar a {
   color: #6d201c;
   font-family: 'karla';
   font-weight: 400;
-  margin-right: 8px;
-  margin-top: 34px;
+  margin-right: 16px;
+  margin-top: 32px;
 }
 
-.nav a:hover {
+.navbar a:hover {
+  color: black;
+}
+
+.navbar-toggler {
+  border: none;
+}
+
+.navbar-collapse {
+  transition: all 0.3s ease;
+}
+
+.navbar-nav {
+  display: flex;
+  align-items: center;
+
+}
+
+.nav-link {
+  color: #6d201c;
+  font-family: 'Karla', sans-serif;
+  font-weight: 400;
+  margin-right: 8px;
+  margin-top: 10px;
+
+}
+
+.nav-link:hover {
   color: black;
 }
 

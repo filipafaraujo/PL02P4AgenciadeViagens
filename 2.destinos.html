@@ -36,26 +36,39 @@
 </head>
 
 <body>
-  <ul class="nav justify-content-end">
-    <li class="nav-item">
-      <a class="nav-link" href="index.html"><img src="assets/icons/logo_final.png" class="logo" alt="logo"></a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link" href="2.destinos.html">Destinos</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link " href="3.pacotes.html">Pacotes</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link " href="4.reservas.html">Reservas</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link " href="5.blog.html">Blog</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link " href="6.contatos.html">Contatos</a>
-    </li>
-  </ul>
+<!-- Navbar -->
+<div class="container-fluid" id="navmenu">
+  <nav class="navbar navbar-expand-lg">
+    <!-- Botão do menu hambúrguer-->
+    <button class="navbar-toggler ms-auto" type="button" data-bs-toggle="collapse" data-bs-target="#headerNavbar" aria-controls="headerNavbar" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <!-- Navbar que vai ser colapsada em telas pequenas -->
+    <div class="collapse navbar-collapse justify-content-end" id="headerNavbar">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link" href="index.html"><img src="assets/icons/logo_final.png" class="logo" alt="logo"></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="2.destinos.html">Destinos</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="3.pacotes.html">Pacotes</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="4.reservas.html">Reservas</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="5.blog.html">Blog</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="6.contatos.html">Contatos</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+</div>
 
   <div class="header-image">
     <img src="assets/imagens/nova_imagem_4.jpg" alt="Airplane">
@@ -87,6 +100,8 @@
       </div>
     </form>
   </div>
+  <br>
+  <br>
 
   <!-- Carousel Destinos -->
   <div class="carousel-container">
@@ -114,8 +129,6 @@
       </button>
     </div>
   </div>
-  <br>
-  <br>
   <br>
   <br>
 
@@ -329,7 +342,6 @@
   </div>
 </div>
 <br>
-<br>
 
 
 
@@ -341,8 +353,9 @@
   <br>
   <br>
   <div class="row">
+
     <!-- Coluna da Esquerda -->
-    <div class="col-md-6" style="padding-left: 60px; padding-right: 20px;">
+    <div class="col-md-6 px-4 px-md-5" style="padding-left: 60px; padding-right: 20px;"> 
       <h4 class="text-left" style="font-family: 'karla', sans-serif; color: black;">► A fórmula mágica: planear com antecedência</h4>
       <p>Ao escolher um destino para o verão, é importante considerar vários fatores. Primeiro, pense no clima da região e se ele está alinhado com suas preferências. Se você gosta de calor, destinos praianos são ideais. Se prefere um clima mais ameno, as montanhas podem ser uma excelente opção.</p>
       <p>Outro ponto a ser considerado é a distância. Verifique se o destino é acessível tanto em termos de tempo de viagem quanto de custos. Além disso, verifique se há eventos especiais acontecendo na sua escolha, como festivais ou celebrações locais que podem enriquecer sua experiência.</p>
@@ -355,7 +368,11 @@
     
 
     <!-- Coluna da Direita -->
-    <div class="col-md-6" style="padding-left: 20px; padding-right: 60px;">
+    <div class="col-md-6 mt-5 mt-md-0 mx-auto" style="padding-left: 20px; padding-right: 60px;">
+      <!-- col-md-5 ensures two columns are side by side on medium (md) screens and larger, and stack on smaller screens. -->
+      <!-- mt-6 → Adds margin-top on small screens. -->
+      <!-- mt-md-0 → Removes the margin from md (medium) screens and larger, keeping everything aligned. -->
+
       <h4 class="text-left" style="font-family: 'karla', sans-serif; color: black;">► Afinal, quem é você enquanto viajante?</h4>
       <p>Além de clima e distância, outros fatores incluem o custo total da viagem. Defina um orçamento que abrange passagens, hospedagem, alimentação e atividades. Lembre-se também de considerar a segurança do destino, como a política de saúde e a situação local em relação à pandemia, caso aplicável.</p>
       <p>Por fim, pense na experiência que você busca. Quer relaxar e descontrair em uma praia tranquila, ou explorar novas culturas em uma cidade vibrante? Planeje atividades que combinem com seu estilo de viagem e garanta que você aproveite ao máximo suas férias de verão!</p>
@@ -380,8 +397,6 @@
 
     <!-- BOOTSTRAP SCRIPT -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
-
-
 
 
 
